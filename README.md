@@ -22,11 +22,13 @@
   
 ---
 
-<h3>Connect with Me</h3>
-<a href="https://twitter.com/TelmanFerhat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="telman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ferhattelman/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="telman" height="30" width="40" /></a>
-<a href="https://profile.codersrank.io/user/ferhattelman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="telman" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ferhat.telman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/producthunt.svg" alt="telman" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/telmanferhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="telmanferhat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ferhattelman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferhattelman" height="30" width="40" /></a>
+<a href="https://instagram.com/ferhat.telman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferhat.telman" height="30" width="40" /></a>
+<a href="https://medium.com/@ferhat.tlmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferhat.tlmn" height="30" width="40" /></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhattelman&show_icons=true&locale=en&layout=compact" alt="ferhattelman" /></p>
 
