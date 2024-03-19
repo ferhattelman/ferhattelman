@@ -8,7 +8,7 @@
 
 
 
-# Tech Stack
+## Tech Stack
 - **Frontend**:<b> ```C++``` &nbsp; ```C#``` &nbsp; ```JavaScript``` &nbsp; ```Python``` &nbsp; ```Php```  &nbsp;</b><br>
 - **Frontend**: <b> ```React.js``` &nbsp; ```Html``` &nbsp; ```Css``` &nbsp; ```Redux``` &nbsp; ```Tailwind```  &nbsp; ```BootStrap```</b><br>
 
