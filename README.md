@@ -9,7 +9,7 @@
 
 
 ## Tech Stack
-- **Frontend**:<b> ```C++``` &nbsp; ```C#``` &nbsp; ```JavaScript``` &nbsp; ```Python``` &nbsp; ```Php```  &nbsp;</b><br>
+- **Programming Languages**:<b> ```C++``` &nbsp; ```C#``` &nbsp; ```JavaScript``` &nbsp; ```Python``` &nbsp; ```Php```  &nbsp;</b><br>
 - **Frontend**: <b> ```React.js``` &nbsp; ```Html``` &nbsp; ```Css``` &nbsp; ```Redux``` &nbsp; ```Tailwind```  &nbsp; ```BootStrap```</b><br>
 
 - **Backend**:<b> ```Node.js``` &nbsp;```MySQL```  ```MariaDB``` &nbsp; ```SQLite``` &nbsp; ```MsSQL``` &nbsp; ```OpenCv``` &nbsp;</b><br>
