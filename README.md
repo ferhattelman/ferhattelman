@@ -13,7 +13,7 @@
 ## Tech Stack
 - **Programming Languages**:<b> ```C++``` &nbsp; ```C#``` &nbsp; ```JavaScript``` &nbsp; ```Python``` &nbsp; ```Php```  &nbsp;</b><br>
 - **Frontend**: <b> ```React.js``` &nbsp; ```Html``` &nbsp; ```Css``` &nbsp; ```Redux``` &nbsp; ```Tailwind```  &nbsp; ```BootStrap```</b><br>
-- **Mobile **: <b> ```React-Native``` &nbsp; ```Angular``` &nbsp; ```Flutter``` &nbsp;</b><br>
+- **Mobile**: <b> ```React-Native``` &nbsp; ```Angular``` &nbsp; ```Flutter``` &nbsp;</b><br>
 
 - **Backend**:<b> ```Node.js``` &nbsp;```MySQL```  ```MariaDB``` &nbsp; ```SQLite``` &nbsp; ```MsSQL``` &nbsp; ```OpenCv``` &nbsp;</b><br>
 
