@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I'm+Ferhat+Telman!;%F0%9F%8C%9F+Let's+do+a+project+together..." alt="Typing SVG" /></a>
 
-<img align="right" src="[https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6OXBjem8ybXJzajI4NTc4amVrbTI1OHM5djJobGhwYjVnZ3I4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" alt="Coding" width="400">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6OXBjem8ybXJzajI4NTc4amVrbTI1OHM5djJobGhwYjVnZ3I4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding" width="400">
 
 - My website [**ferhattelman.com**](https://www.ferhattelman.com/)
 - How to reach me **ferhattelman@proton.me**, [**Twitter**](https://twitter.com/TelmanFerhat) or [**LinkedIn**](https://www.linkedin.com/in/ferhattelman/) 
