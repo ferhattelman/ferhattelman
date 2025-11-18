@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhattelman&show_icons=true&locale=en" alt="ferhattelman" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ferhattelman)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ferhattelman" alt="GitHub Streak" /></a>
