@@ -3,7 +3,7 @@
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6OXBjem8ybXJzajI4NTc4amVrbTI1OHM5djJobGhwYjVnZ3I4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding" width="400">
 
 - My website [**ferhattelman.com**](https://www.ferhattelman.com/)
-- How to reach me **ferhattelman@proton.me**, [**Twitter**](https://twitter.com/TelmanFerhat) or [**LinkedIn**](https://www.linkedin.com/in/ferhattelman/) 
+- How to reach me **ferhat.tlmn@gmail.com**, [**Twitter**](https://twitter.com/TelmanFerhat) or [**LinkedIn**](https://www.linkedin.com/in/ferhattelman/) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhattelman&label=Profile%20views&color=0e75b6&style=flat" alt="ferhattelman" /> </p>
